@@ -1,0 +1,36 @@
+.ui.centered.item{
+  margin-left: 15%;
+}
+.ui.borderless.topmenu.menu{
+  margin-bottom: 10px;
+  border-bottom: none;
+}
+.ui.borderless.second.menu{
+  box-shadow: none;
+  margin-top: 10px;
+  border-top-color: white;
+  border-bottom: white;
+  margin-left: 30px;
+}
+
+.ui.borderless.middle.menu{
+  box-shadow: none;
+  border: none;
+}
+
+.cart-val.item{
+  margin-left: 0px;
+}
+
+.ui.cart.container{
+  margin-top: 10px;
+}
+
+.ui.bordered.centered.image{
+  border-right-width: 80px;
+  border-left-width: 80px;
+  border-right-color: white;
+  border-left-color: white;
+  border-top-color: white;
+  border-bottom-color: white;
+}
